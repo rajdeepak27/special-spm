@@ -13,7 +13,7 @@ let package = Package(
     products: [
         .library(
             name: "ShieldCredit",
-            targets: ["ShieldCredit"]
+            targets: ["ShieldCredit"] //target name
         )
     ],
     targets: [
